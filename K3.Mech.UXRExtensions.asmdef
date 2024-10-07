@@ -1,0 +1,19 @@
+{
+    "name": "K3.UXRExtensions",
+    "rootNamespace": "",
+    "references": [
+        "UltimateXR",
+        "K3.Core"
+    ],
+    "includePlatforms": [
+        "Android",
+        "Editor",
+        "WindowsStandalone64"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "noEngineReferences": false
+}
